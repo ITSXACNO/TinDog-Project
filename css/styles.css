@@ -1,0 +1,236 @@
+/* Title Sections */
+
+#title{
+    background-color: #ff4c68;
+    padding: 3% 12%;
+}
+
+/* Navbar Sections */
+
+.navbar-nav{
+    padding-right: 200px;
+}
+
+.navbar-brand{
+    font-size: 40px;
+    font-family: "Ubuntu";
+    font-weight: bold;
+}
+
+.nav-link{
+    font-family: "Merriweather";
+    font-size: 19px;
+}
+
+.nav-item{
+    margin: auto 9%;
+}
+
+/* Row Sections */
+
+.col-lg-6 h1{
+    font-size: 58px;
+    color: #fff;
+    line-height: 1.5;
+    font-family: "Motserrat";
+}
+
+#title .row{
+    padding-top: 60px;
+    padding-bottom: 70px;
+}
+
+/* Button and Image Section First Page */
+
+#title .btn{
+    margin: 3% 1.5%;
+}
+
+.col-lg-6 i{
+    margin: auto 1px;
+}
+
+.col-lg-6 img{
+    margin-left: 20px;
+    width: 22%;
+    transform: rotate(17deg);
+    position: absolute;
+}
+
+
+/* Feature Section */
+
+#features{
+    padding: 8% 12%;
+    background-color: #fff;
+    position: relative;
+    z-index: 1;
+}
+
+#features .row{
+    text-align: center;
+}
+
+#features .font{
+    font-size: 70px;
+    color: #ef8172;
+}
+
+#features .font:hover{
+    color: #ff4c68;
+}
+
+#features .col-md-4{
+    padding: 2% 2%;
+}
+
+.col-md-4 h3{
+    font-size: 23px;
+    margin: 6% auto 3% auto;
+    font-family: "Merriweather";
+    font-weight: 100;
+}
+
+.col-md-4 p{
+    font-size: 17px;
+    color: #8f8f8f;
+    width: 78%;
+    margin: auto;
+}
+
+
+/* Third Page Testimonials */
+
+#testimonials{
+    background-color: #ef8172;
+    padding: 5% 12%;
+    text-align: center;
+}
+
+#testimonials h2{
+    padding-top: 25px;
+    font-family: "Motserrat";
+    font-size: 45px;
+    color: #fff;
+    line-height: 1.5;
+}
+
+#testimonials img{
+    margin-top: 25px;
+    width: 10%;
+    border-radius: 100%;
+}
+
+#testimonials .icons{
+    margin: auto -12%;
+}
+
+#testimonials em{
+    color: #fff;
+    margin: 2% 2%;
+}
+
+
+
+/* Press Section Logo Section */
+#press{
+    background-color: #ef8172;
+    padding: 3% 10%;
+    text-align: center;
+}
+
+#press img{
+    width: 20%;
+    padding-bottom: 50px;
+    margin: auto 2%;
+}
+
+/* Pricing Section */
+
+#pricing{
+    padding: 7% 8%;
+    text-align: center;
+}
+
+#pricing h2{
+    font-family: "Merriweather";
+    font-size: 40px;
+}
+
+#pricing p{
+    font-family: "Motserrat";
+    font-weight: normal;
+    color: #8f8f8f;
+    font-size: 20px;
+    margin-top: 1%;
+}
+
+#pricing .col-lg-4{
+    margin: 2% auto;
+}
+
+#pricing .row{
+    padding: 1% auto;
+}
+
+#pricing .row p{
+    color: #8f8f8f;
+    font-size: 18px;
+}
+
+
+.card-body h2{
+    font-family: "Motserrat";
+    font-size: 50px;
+    margin: 3% auto 5% auto;
+}
+
+.card{
+    margin: 0px;
+    width: 100%;
+}
+
+.card-header h3{
+    font-family: "Motserrat";
+}
+
+/* Last page cta Section */
+
+#cta{
+    padding: 10% 5% 10% 5%;
+    background-color: #ff4c68;
+    text-align: center;
+}
+
+#cta h3{
+    width: 80%;
+    line-height: 1.5;
+    margin: auto;
+    font-family: "Motserrat";
+    font-size: 57px;
+    color: #fff;
+}
+
+#cta .btn{
+    margin-top: 50px;
+    margin-right: 20px;
+
+}
+
+/* Last Page Footer Section */
+
+#footer{
+    padding: 5% 5% 9% 5%;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#footer p{
+    font-size: 16px;
+    color: #8f8f8f;
+    font-family: "Montserrat";
+}
+
+#footer i{
+    margin: 2% 0.8%;
+}
